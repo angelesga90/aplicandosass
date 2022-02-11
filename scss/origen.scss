@@ -1,0 +1,32 @@
+header{
+        img{
+             width: 100%;
+            }
+            h1{
+                color: rgb(44, 89, 172);
+                font-style: italic;
+                font-size: 50px;
+                font-family: 'Langosta', cursiva;
+                text-align: center;
+                margin: 25px 25px 25px 25px
+
+            } 
+             iframe{
+                width: 50%;
+                margin-left: 25%;
+             }
+
+}
+nav{
+    background-color: pink;
+    padding: 2%;
+    ul{
+        display: flex;
+        flex-direction: row;
+        li{
+            display: inline;
+            padding: 1%;
+        }
+    }
+
+}
